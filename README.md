@@ -49,4 +49,4 @@ npm start
 
 ## Authors
 
-* **Kartik Pandey** kartikpandey2 - [PurpleBooth](https://github.com/kartikpandey2)
+* **Kartik Pandey** kartikpandey2(https://github.com/kartikpandey2)
